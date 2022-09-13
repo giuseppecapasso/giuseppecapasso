@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/giuseppecapasso/giuseppecapasso/blob/main/github-metrics.svg" alt="Metrics" width="50%">      
+
 <!--
 **giuseppecapasso/giuseppecapasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
